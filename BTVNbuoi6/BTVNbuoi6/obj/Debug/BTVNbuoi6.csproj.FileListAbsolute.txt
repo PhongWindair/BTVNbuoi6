@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\BTVNbuoi6\BTVNbuoi6\bin\Debug\BTVNbuoi6.exe.config
+C:\Users\Admin\source\repos\BTVNbuoi6\BTVNbuoi6\bin\Debug\BTVNbuoi6.exe
+C:\Users\Admin\source\repos\BTVNbuoi6\BTVNbuoi6\bin\Debug\BTVNbuoi6.pdb
+C:\Users\Admin\source\repos\BTVNbuoi6\BTVNbuoi6\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\BTVNbuoi6\BTVNbuoi6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\BTVNbuoi6\BTVNbuoi6\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\BTVNbuoi6\BTVNbuoi6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\BTVNbuoi6\BTVNbuoi6\obj\Debug\BTVNbuoi6.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BTVNbuoi6\BTVNbuoi6\obj\Debug\BTVNbuoi6.Form1.resources
+C:\Users\Admin\source\repos\BTVNbuoi6\BTVNbuoi6\obj\Debug\BTVNbuoi6.Properties.Resources.resources
+C:\Users\Admin\source\repos\BTVNbuoi6\BTVNbuoi6\obj\Debug\BTVNbuoi6.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BTVNbuoi6\BTVNbuoi6\obj\Debug\BTVNbuoi6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BTVNbuoi6\BTVNbuoi6\obj\Debug\BTVNbuoi6.csproj.Up2Date
+C:\Users\Admin\source\repos\BTVNbuoi6\BTVNbuoi6\obj\Debug\BTVNbuoi6.exe
+C:\Users\Admin\source\repos\BTVNbuoi6\BTVNbuoi6\obj\Debug\BTVNbuoi6.pdb
